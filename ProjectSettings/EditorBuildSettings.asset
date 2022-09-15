@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Chess.unity
+    guid: 9adbf58167061a84e8658bcb32577ff1
+  - enabled: 0
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 83662d0e713f4334398a1190f10e4f8c
+  - enabled: 0
+    path: Assets/Scenes/House.unity
+    guid: 4c4d58647ebfff14d885be3867742c97
+  - enabled: 0
+    path: Assets/Scenes/Trial.unity
+    guid: d7a8a20496bbf2343b7e29191e7de0b2
+  - enabled: 0
+    path: Assets/Home.unity
+    guid: ea9ffca9ca0f4394f8e35a8e089692fa
+  - enabled: 0
+    path: Assets/Targets.unity
+    guid: 3d1944e535cd2aa4c9766236c2e45aa7
+  - enabled: 1
+    path: Assets/Scenes/homeScreen2.0.unity
+    guid: 1c10b96211f90473f88a239d07173d9c
+  - enabled: 1
+    path: Assets/Scenes/faqPage.unity
+    guid: 473009d8e7eec43308ec124116e4c55f
+  - enabled: 1
+    path: Assets/Scenes/uploadSTL.unity
+    guid: 30f57805b453949ffb251fed5dc3ade2
+  - enabled: 1
+    path: Assets/Scenes/modelPage.unity
+    guid: db0904f265af54c409f23086dc5051a3
+  m_configObjects: {}
